@@ -1,0 +1,11 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\bin\Debug\BroadwayPlayTickets.exe.config
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\bin\Debug\BroadwayPlayTickets.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\bin\Debug\BroadwayPlayTickets.pdb
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\bin\Debug\BroadwayPlayTickets.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\obj\Debug\BroadwayPlayTickets.frmTheatreTickets.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\obj\Debug\BroadwayPlayTickets.Resources.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\obj\Debug\BroadwayPlayTickets.BroadwayPlaySplash.resources
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\obj\Debug\BroadwayPlayTickets.vbproj.GenerateResource.Cache
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\obj\Debug\BroadwayPlayTickets.exe
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\obj\Debug\BroadwayPlayTickets.xml
+c:\users\lisakilker\documents\visual studio 2012\Projects\BroadwayPlayTickets\BroadwayPlayTickets\obj\Debug\BroadwayPlayTickets.pdb
